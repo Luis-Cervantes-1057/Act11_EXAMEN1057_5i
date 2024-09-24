@@ -5,7 +5,7 @@ class refresqueria:
     id_empleado = 0
     id_cliente = 0
     cantidad = 0
-    crecio = 0
+    precio = 0
     fecha = ""
     dire = ""
 #funciones
