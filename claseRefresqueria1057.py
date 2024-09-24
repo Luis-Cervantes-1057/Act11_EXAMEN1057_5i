@@ -3,8 +3,8 @@ class refresqueria:
     #Zona de atributos
     id_venta = 0
     id_empleado = 0
-    iantidad = 0
-    pd_cliente = 0
+    id_cliente = 0
+    cantidad = 0
     crecio = 0
     fecha = ""
     dire = ""
