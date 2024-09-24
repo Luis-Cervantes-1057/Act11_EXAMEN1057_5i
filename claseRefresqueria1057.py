@@ -1,13 +1,12 @@
 # Zona de clase
 class refresqueria:
     #Zona de atributos
-    id_venta = 0
-    id_empleado = 0
-    id_cliente = 0
-    cantidad = 0
+    id_producto = 0
+    nombre = ""
+    tipo = ""
+    sabor = ""
     precio = 0
-    fecha = ""
-    dire = ""
+    peso = 0
 #funciones
     def mostrar(self):
         print(f"id venta: {ale.id_venta} \nid_empleado: {ale.id_empleado} \nid_cliente: {ale.id_cliente}")
